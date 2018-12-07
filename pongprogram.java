@@ -28,6 +28,7 @@ public class pongprogram implements ActionListener, MouseListener, KeyListener{
 	public void mouseExited(MouseEvent evt){
 	}
 	
+	// This is a overriden method for MouseListener
 	public void mousePressed(MouseEvent evt){
 	
 		thepanel.intRectMouseY = evt.getY();
