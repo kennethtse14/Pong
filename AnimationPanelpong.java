@@ -33,7 +33,9 @@ public class AnimationPanelpong extends JPanel{
 		g.fillRect(50, intRectKeyY, 50, 300);
 		
 		// second rect
-		g.setColor(Color.RED);
+		
+		// Changed padde colour to white 
+		g.setColor(Color.WHITE);
 		// 1150, 210
 		g.fillRect(1150, intRectMouseY, 50, 300);
 		
