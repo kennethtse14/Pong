@@ -1,3 +1,9 @@
+// My frist swing animation game
+// Using KeyListener, MouseMotionListener
+// Created By: Kenneth
+// Created on Dec 7 
+
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
